@@ -105,5 +105,9 @@ export default [
 	{
 		Location: 'Coal Mine',
 		Roles: ['Miner','Overseer','Coordinator','Safety Inspector','Worker']
+	},
+	{
+		Location: 'Zoo',
+		Roles: ['Zookeeper', 'Visitor', 'Child', 'Cashier', 'Veterinarian', 'Tourist', 'Food Vendor']
 	}
 ];
