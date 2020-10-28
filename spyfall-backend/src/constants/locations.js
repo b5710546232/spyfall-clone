@@ -101,5 +101,9 @@ export default [
 	{
 		Location: 'Spy school',
 		Roles: ['Ninja', 'Spy', 'Ninja teacher', 'Spy master', 'Dog', 'Gardener', 'Actor']
+	},
+	{
+		Location: 'Coal Mine',
+		Roles: ['Miner','Overseer','Coordinator','Safety Inspector','Worker']
 	}
 ];
